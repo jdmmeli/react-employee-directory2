@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/http//jdmmeli.github.io/react-employee-directory2/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/http//jdmmeli.github.io/react-employee-directory2/static/js/main.d1bdc2be.chunk.js",
+    "main.js.map": "/http//jdmmeli.github.io/react-employee-directory2/static/js/main.d1bdc2be.chunk.js.map",
+    "runtime-main.js": "/http//jdmmeli.github.io/react-employee-directory2/static/js/runtime-main.e1d756ed.js",
+    "runtime-main.js.map": "/http//jdmmeli.github.io/react-employee-directory2/static/js/runtime-main.e1d756ed.js.map",
+    "static/js/2.7fdd39c6.chunk.js": "/http//jdmmeli.github.io/react-employee-directory2/static/js/2.7fdd39c6.chunk.js",
+    "static/js/2.7fdd39c6.chunk.js.map": "/http//jdmmeli.github.io/react-employee-directory2/static/js/2.7fdd39c6.chunk.js.map",
+    "index.html": "/http//jdmmeli.github.io/react-employee-directory2/index.html",
+    "precache-manifest.de48eae16b7974f48cebcf8be3b2bc93.js": "/http//jdmmeli.github.io/react-employee-directory2/precache-manifest.de48eae16b7974f48cebcf8be3b2bc93.js",
+    "service-worker.js": "/http//jdmmeli.github.io/react-employee-directory2/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/http//jdmmeli.github.io/react-employee-directory2/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.7fdd39c6.chunk.js.LICENSE.txt": "/http//jdmmeli.github.io/react-employee-directory2/static/js/2.7fdd39c6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e1d756ed.js",
+    "static/js/2.7fdd39c6.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.d1bdc2be.chunk.js"
+  ]
+}
